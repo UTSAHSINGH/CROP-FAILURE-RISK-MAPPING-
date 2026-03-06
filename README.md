@@ -33,8 +33,8 @@ Developed as part of **INT234 – Predictive Analytics**, this project combines 
 
 crop_failure_project/
 ├── data/
-│   └── crop_merged.csv          # Cleaned & merged dataset
-├── app.py                       # Streamlit dashboard
+│   └── crop_merged.csv          
+├── app.py                      
 ├── notebooks/
 │   └── crop_failure_prediction.ipynb  # Model training & EDA
 ├── models/
